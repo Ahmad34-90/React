@@ -33,3 +33,15 @@
   margin: 40px auto;
   padding: 20px;
 }
+
+.blog-preview{
+  max-width: 400px;
+  margin: 12px;
+  border-bottom: 1px solid #111;
+}
+.blog-preview h2{
+  color: rgb(34, 52, 58);
+}
+.blog-preview p{
+  color: rgb(116, 70, 37);
+}
